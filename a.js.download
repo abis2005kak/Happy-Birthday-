@@ -69,7 +69,7 @@ function initengahan(){
   
   async function menuju(){
     await swals.fire('Yay!', 'And here comes another birthday surprise for you!', 'success');
-    window.location = "main.a";
+    window.location = "main.txt";
   }
   
   vketik1 = kalimat.innerHTML;
